@@ -1,0 +1,5 @@
+-------------------Source code Management ----------------
+Source code - it is a code which typlically written by the developers of your application.
+Versioning -- Versioning is the creation and management of multiple releases of a product, all of which have the same general function but are improved, upgraded or customized. The term applies especially to operating systems (OSs), software and Web services. 
+SCM code -- managing code
+SCM Tools -CVS,SVN,GIT
